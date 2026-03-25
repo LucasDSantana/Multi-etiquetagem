@@ -1,0 +1,4 @@
+# Multi-etiquetas APG — Dependências
+# Instale com: pip install -r requirements.txt
+
+pywin32>=306
